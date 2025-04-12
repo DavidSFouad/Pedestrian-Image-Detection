@@ -1,0 +1,5 @@
+For the dataset i used INRIA Person Dataset
+you can download the dataset from this link
+https://drive.google.com/file/d/14GD_pBpBsprPiZlkmtXN_y5K72To16if/view
+
+For the trained model uploaded i didn't use the whole INRIA Person Dataset, i used 689 negative images (images that does not contain pedestrians) and 866 positive images (images that contain pedestrians) and 866 positive images (images that contain pedestrians)
